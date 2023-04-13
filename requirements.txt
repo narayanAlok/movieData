@@ -3,3 +3,5 @@ numpy
 pandas
 gunicorn
 requests
+patsy
+scikit-learn
