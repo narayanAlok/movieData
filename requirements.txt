@@ -1,7 +1,6 @@
 flask
 numpy
-pickle
-requests
-patsy
 pandas
 gunicorn
+requests
+
